@@ -1,0 +1,8 @@
+1. Error messages should be more detailed 
+
+2. The URL structure seems meaningful, and the routes are well-organized.
+
+3. We have to add comments to explain complex logic code
+
+4. We have to define routes for various operations like viewing products, creating new products, editing, and deleting products. These routes correspond to RESTful API endpoints.
+
